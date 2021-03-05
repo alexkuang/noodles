@@ -1,8 +1,9 @@
 Welcome to my little corner of the internet, where I plan to share the output of my personal noodling on various topics.  This includes:
 - [Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 - Reading notes from books + other writing
+- WIP topic explorations
 - Useful technical snippets
-- Stuff I've found myself repeating, so may as well have a URL for it.
+- Stuff I've found myself repeating, so may as well have a URL for it
 
 Starting points:
 - [[Books]]
