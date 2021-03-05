@@ -1,0 +1,29 @@
+[[Rob Fitzpatrick]]
+
+- Bad customer conversations are worse than no customer conversations because they waste your time and give you a false sense of security.
+- Customer conversations are bad by default.  People will lie to you out of a desire to be nice and/or without even realizing it.
+- "[...] you aren’t allowed to tell them what their problem is, and in return, they aren’t allowed to tell you what to build."
+- Generalizations + hypotheticals = lies.  e.g. "I always ...", "I usually ...", "I would totally use..."
+	- Get concrete.  It's much harder to tell white lies when describing concrete past.
+	- "Tell me about the last time [this happened]", "tell me what you've already tried [to solve this problem]"
+	- e.g. how often do tech teams complain about Slack, vs "When was the last time you tried to switch your team away from Slack"
+- Zooming in too quickly can ruin a conversation.  e.g. digging into details of a use case without finding out whether that use case is even important to them.
+- Keep it casual if at all possible.  Formal meetings put people on guard.  If it feels like someone is doing you a favor, it's probably too formal.
+	- Sometimes it can't be avoided on a completely cold approach.
+	- Goal of cold approaches is to stop needing them.
+- Conversations are easy to screw up.  Have a plan for specific questions to be answered.  When in doubt, choose whatever feels most important or uncertain at the moment.  Every conversation should have at least one question that "terrifies you," i.e. could nuke your hypothesis from orbit.
+- Keep talking to people until you stop hearing new information.  Counterpoint: don't stall, spend maybe a week or two and then commit to a direction, i.e. build, before gathering more feedback incorporating what you've built.
+- Customer conversations alone are not enough when facing heavy product risk.
+- Useful note shorthand:
+	- :) - excited
+	- :( - angry
+	- :| - embarrassed
+	- ⚡️ - pain/problem
+	- ⨅ - goal / JTBD
+	- ☐ - obstacle
+	- ⤴ - workaround
+	- ^ - (mountain) background
+	- ☑ - feature request / criteria
+	- $ - budget + purchase process
+	- ♀ - specific person or company
+	- ☆- follow-up
